@@ -2,7 +2,7 @@
 - 👀 I’m interested in especially React.js
 - 🌱 I aim to proceed my career being a Frontend Develepor , React Developer and soon React Native 
 - 💞️ Passionate learner, self-development, fond of innovation, teamwork spirit therefore I enthusiasm in this field
-  Believing teamwork produce of high quality works and keeps you constently up-to-date
+- Believing teamwork produce of high quality works and keeps you constently up-to-date
 
 - 📫 Looking forward to working with team 
 
