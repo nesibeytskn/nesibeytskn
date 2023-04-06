@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nesibeytskn have been working and learning React.js, React-Redux for 6 months 
+- 👋 Hi, I’m @nesibeytskn have been working and learning React.js, React-Redux for 2 years 
 - 👀 I’m interested in especially React.js
 - 🌱 I aim to proceed my career being a Frontend Develepor , React Developer and soon React Native 
 - 💞️ Passionate learner, self-development, fond of innovation, teamwork spirit therefore I enthusiasm in this field
