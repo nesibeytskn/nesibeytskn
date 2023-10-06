@@ -21,8 +21,7 @@
 ❄️TAILWIND<br>
 ❄️TYPESCRIPT<br>
 ❄️SASS-SCSS<br>
-
-❄️🔜REACT NATIVE<br>
+❄️REACT NATIVE<br>
 
 
 
