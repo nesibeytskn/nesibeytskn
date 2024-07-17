@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m @nesibeytskn have been working and learning React.js, React-Redux, React-Native Mobile for 4 years <br>👀 I’m interested in especially React.js<br>🌱 I aim to 
+👋 Hi, I’m @nesibeytskn have been working and learning React.js, React-Redux, React-Native Mobile for 3 years <br>👀 I’m interested in especially React.js<br>🌱 I aim to 
   proceed my career being a Frontend Develepor , React Developer and React Native <br>💞️ Passionate learner, self-development, fond of innovation, 
   teamwork spirit therefore I enthusiasm in this field<br>     Believing teamwork produce of high quality works and keeps you constently up-to-date<br> 📫 Looking forward to working with team <br>
 
